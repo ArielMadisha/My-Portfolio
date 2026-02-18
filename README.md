@@ -27,5 +27,5 @@ I am a full‑stack developer with strong experience in the MERN stack, backend 
 
 ## 📫 Connect with Me
 - 📧 Email: ariel@vodamail.co.za
-- 🌐 LinkedIn: (add your link here)
+- 🌐 LinkedIn: https://www.linkedin.com/in/ariel-madisha-a00b56398/
 - 💻 GitHub: github.com/ArielMadisha
