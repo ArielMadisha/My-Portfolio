@@ -1,4 +1,4 @@
-My Portfolio
+
 👋 Hi, I'm Ariel Mabeka Madisha
 Full-Stack Software Developer | Consultant | Former CFO
 I am a Full-Stack Software Developer with a unique combination of software engineering, finance, auditing, and enterprise systems experience. After leading financial operations and compliance functions for nearly a decade as a Deputy CFO and finance professional, I transitioned into software development where I build scalable web applications, APIs, cloud-hosted solutions, and business systems.
